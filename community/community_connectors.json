@@ -752,5 +752,13 @@
         "tags": ["v_2.0"],
         "description": "Connector to get data from Zabbix API",
         "source_code": "https://github.com/parflesh/zabbix-wdc"
-    }
-]
+    },
+]   {
+        "name": "Adobe Analytics Cloud Connector",
+        "url": "http://tableau.cognetik.com",
+        "author": "Cognetik",
+        "github_username": "",
+        "tags": ["v_1.0"],
+        "description": "Cloud connector for Adobe Analytics in Tableau.",
+        "source_code": ""
+     }
